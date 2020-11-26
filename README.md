@@ -24,4 +24,4 @@ You can build your project by forking this CodePen pen. Or you can use this CDN 
 Once you're done, submit the URL to your working project with all its tests passing.
 
 
-Solution Link(Live Site):	
+Solution Link(Live Site):	  https://freecodecamp-solutions.github.io/Build-a-Drum-Machine/
